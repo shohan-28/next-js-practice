@@ -1,0 +1,108 @@
+      "stock": 3,
+      "availability": "in-stock",
+      "rating": 4.6,
+      "reviewCount": 47,
+      "warranty": {
+        "years": 2,
+        "type": "Manufacturer warranty; battery coverage varies by market"
+      },
+      "shipping": {
+        "available": true,
+        "estimatedDays": "21-40 business days",
+        "cost": 0
+      },
+      "tags": [
+        "macan",
+        "electric",
+        "ev",
+        "suv",
+        "luxury"
+      ],
+      "isFeatured": false,
+      "isActive": true
+    },
+    {
+      "productId": 8,
+      "slug": "porsche-panamera",
+      "name": "Porsche Panamera",
+      "brand": "Porsche",
+      "model": "Panamera",
+      "modelYear": 2025,
+      "category": "Luxury Performance Sedan",
+      "bodyType": "Sedan",
+      "price": 105000,
+      "oldPrice": 110000,
+      "currency": "USD",
+      "shortDescription": "A spacious luxury sedan with sports-car character and long-distance comfort.",
+      "description": "The Panamera combines four-door practicality with performance-focused engineering and a premium cabin. The sample figures and price are illustrative and vary by trim and market.",
+      "specifications": {
+        "engine": "2.9L twin-turbocharged V6 (example configuration)",
+        "displacement": "2.9 L",
+        "fuelType": "Petrol",
+        "transmission": "8-speed PDK automatic",
+        "drivetrain": "Rear-wheel drive or all-wheel drive (trim dependent)",
+        "powerHp": 348,
+        "torqueNm": 500,
+        "acceleration0To100KmhSeconds": 5.1,
+        "topSpeedKmh": 272,
+        "seatingCapacity": 4,
+        "doors": 4,
+        "fuelEconomyCombinedLPer100Km": null
+      },
+      "dimensions": {
+        "lengthMm": null,
+        "widthMm": null,
+        "heightMm": null,
+        "wheelbaseMm": null,
+        "curbWeightKg": null,
+        "trunkCapacityLiters": null
+      },
+      "features": [
+        "Four-door comfort",
+        "Adaptive suspension available",
+        "Premium infotainment",
+        "Driver assistance options",
+        "Configurable rear seating"
+      ],
+      "colors": [
+        {
+          "name": "Gentian Blue Metallic",
+          "hex": "#1B3E6F"
+        },
+        {
+          "name": "Black",
+          "hex": "#111111"
+        },
+        {
+          "name": "White",
+          "hex": "#F7F7F7"
+        }
+      ],
+      "imageUrl": null,
+      "imageSearchQuery": "Porsche Panamera 2025",
+      "gallery": [],
+      "stock": 4,
+      "availability": "in-stock",
+      "rating": 4.8,
+      "reviewCount": 72,
+      "warranty": {
+        "years": 2,
+        "type": "Manufacturer warranty; market terms vary"
+      },
+      "shipping": {
+        "available": true,
+        "estimatedDays": "21-40 business days",
+        "cost": 0
+      },
+      "tags": [
+        "panamera",
+        "sedan",
+        "luxury",
+        "performance",
+        "four-door"
+      ],
+      "isFeatured": false,
+      "isActive": true
+    }
+  ]
+}
