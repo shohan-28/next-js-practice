@@ -19,7 +19,7 @@ Products() {
   }
   return (
     <div>
-
+        <p className='text-center text-red-500'>Products load failed!</p>
     </div>
-  )
+  );
 }
